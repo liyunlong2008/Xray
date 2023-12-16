@@ -118,4 +118,5 @@ Usage: xray [options]... [args]...
 谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认
 反馈问题) https://github.com/233boy/xray/issues
 文档(doc) https://233boy.com/xray/xray-script/
+bash <(wget -qO- -o- https://github.com/liyunlong2008/Xray/raw/main/install.sh)
 ```
